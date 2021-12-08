@@ -1,7 +1,7 @@
 <h1> Wellness tips </h1>
   <ol>
   <li> Exercise for a half hour a day </li>
-  <li> Replace snacking on carbs with drinking lots of water and snacking on something healthy </li>
+  <li> Replace snacking on carbs with drinking lots of water and snacking on something healthy <a href = "healthysnacks.md"> Healthy Snacks</a> </li>
   <li> Do something fun! Dance! Do yoga! </li> 
   </ol>
 
